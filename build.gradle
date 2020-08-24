@@ -1,7 +1,7 @@
-def robolectricVersion = '4.3'
+def robolectricVersion = '4.3.1'
 
 def androidSdkVersions = [
-    '10-robolectric-5803371'
+    '9-robolectric-4913185-2'
 ]
 
 def shadowArtifacts = [
